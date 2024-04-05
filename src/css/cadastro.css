@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, sans-serif;
+    padding: 60px;
+}
+
+#imgCadastro {
+    height: 75%;
+}
+
+#voltarLogin {
+    margin: 15px;
+    text-align: center;
+}
