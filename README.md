@@ -1,8 +1,9 @@
-## src/css
-arquivos de estilo CSS
+## Diretórios 
+- src/css
+Arquivos CSS usados para dar estilo ao HTML.
 ##
-## src/image
-imagens usadas no site
+* src/image
+Todas as imagens utilizadas no projeto.
 ##
-## src/js
-arquivos JS usados
+- src/js
+Pasta com os códigos JavaScript usados para adicionar funcionalidades interativas.
